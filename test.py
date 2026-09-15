@@ -4,5 +4,5 @@ if (1 < 2):
     
     first_name = "Sven"
     
-    print(f"Hello" {first_name})
+    print(f"Hello {first_name}")
     
